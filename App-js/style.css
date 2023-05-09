@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.imgProg {
+    max-width: 100%;
+}
+
+.col-sm-8 {
+    margin-top: 70px;
+  
+}
+
+h1 {
+    border-bottom-style: inset;
+}
+
+img.moeda1_00 {
+    height: 84px;
+    width: 84px;
+    margin-bottom: 5px;
+    padding-top: 11px;
+}
+
+img.moeda0_50 {
+    height: 66px;
+    width: 66px;
+    margin-bottom: 5px;
+}
+
+img.moeda0_25 {
+    height: 76px;
+    width: 76px;
+    margin-bottom: 5px;
+}
+
+img.moeda0_10 {
+    height: 60px;
+    width: 60px;
+    margin-bottom: 5px;
+}
